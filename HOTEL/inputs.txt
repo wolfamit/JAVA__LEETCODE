@@ -1,0 +1,26 @@
+101
+Best Stay
+01-jan-2022
+10
+Yes
+20000
+102
+Apple Stay
+12-Feb-2022
+3
+Yes
+4000
+103
+Accord
+11-May-2022
+5
+Yes
+15000
+104
+Royal Park
+22-Dec-2021
+7
+Yes
+12000
+May
+Yes
